@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background:url("bgbouble.jpg");
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+canvas {
+  border: 3px solid #fff;
+  background:rgb(94, 31, 83);
+  margin-top: 10px;
+}
